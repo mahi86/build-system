@@ -1,0 +1,12 @@
+{
+  "name": "cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "./tests.js",
+    "main": "./server.js"
+  },
+  "author": "Mahesh",
+  "license": "ISC"
+}
